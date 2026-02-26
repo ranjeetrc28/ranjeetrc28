@@ -1,29 +1,37 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Ranjeet%20Chougule&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
+<h1 align="center">Hi 👋, I'm Ranjeet Chougule</h1>
 <h3 align="center">🚀 Android & Flutter Developer | 3+ Years Experience | MCA Graduate</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Android+Developer;Flutter+Developer;Cross+Platform+App+Specialist;Clean+Architecture+Enthusiast;Building+Scalable+Business+Apps"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mobile%20App%20Developer&fontSize=35&fontColor=ffffff"/>
 
 ---
 
 ## 👨‍💻 About Me
 
-💼 Android & Flutter Developer with **3+ Years Experience**  
-🏢 Currently working at **Malas Food Products Pvt. Ltd.**  
-🎓 MCA Graduate – Shivaji University  
-🔥 Passionate about scalable architecture & performance optimization  
-📍 Maharashtra, India  
+- 📱 Android & Flutter Developer with **3+ Years Experience**
+- 🏢 Currently working at **Malas Food Products Pvt. Ltd.**
+- 💡 Experienced in building scalable business applications
+- 🔥 Strong in API Integration, Clean Architecture & UI/UX Optimization
+- 🎓 MCA Graduate – Shivaji University
+- 📍 Ichalkaranji, Maharashtra, India
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,firebase,git,github,postman,vscode" />
-</p>
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ⚙️ Tools & Frameworks
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -31,57 +39,57 @@
 
 ### 📲 Employee Management App (Flutter)
 ✔ Attendance Tracking  
-✔ Expense & Leave Management  
-✔ Salary Module  
+✔ Expense Management  
+✔ Leave & Salary Module  
+✔ Role-based Authentication  
 ✔ Real-time API Integration  
-✔ Role-Based Authentication  
 
 ---
 
-### 📰 Alphabet News (Android – Play Store)
+### 📰 Alphabet News (Android - Play Store)
 ✔ Live News Fetching  
 ✔ Push Notifications  
+✔ Smart Categorization  
 ✔ REST API Integration  
-✔ Optimized Performance  
 
 ---
 
 ### 🎓 Coding Niti (Flutter)
-✔ Interactive Programming Tutorials  
-✔ State Management Optimization  
-✔ Scalable Code Architecture  
+✔ Programming Learning App  
+✔ Interactive Tutorials  
+✔ Optimized State Management  
+✔ Scalable Architecture  
 
 ---
 
-## 📊 GitHub Stats
+## 🏢 Professional Experience
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ranjeetrc28&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetrc28&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+### 🔹 Android & Flutter Developer  
+**Malas Food Products Pvt. Ltd. (April 2024 – Present)**  
+- Developed scalable business mobile applications  
+- Built cross-platform Flutter apps  
+- Improved UI/UX & performance optimization  
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetrc28&theme=tokyonight&hide_border=true"/>
-</p>
+### 🔹 Android Developer  
+**StormSofts Technology (Jun 2022 – March 2024)**  
+- Developed Android apps using Clean Architecture  
+- Integrated REST APIs  
+- Delivered feature-rich mobile applications  
 
 ---
 
 ## 🏆 Achievements
-
 🥇 1st Prize – Project Presentation  
 🥈 2nd Prize – Quiz Competition  
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 📧 ranjeetrc28@gmail.com  
 📱 +91 9922830620  
+🌍 Ichalkaranji, Maharashtra  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+⭐ *"Building Scalable Apps. Solving Real Business Problems."*
